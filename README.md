@@ -2,20 +2,22 @@
 The 3D Slicer Course at Linköping University aims at introducing PhD students to brain connectivity mapping using diffusion tensor imaging tractography. The course includes didactic lectures and hands-on sessions using pre-computed datasets.
 
 ## Course Faculty
-Sonia Pujol, PhD, Director of 3D Slicer Training & Education, Assistant Professor of Radiology, Brigham and Women's Hospital, Harvard Medical School
+Sonia Pujol, PhD, Director of 3D Slicer Training & Education
+
+Assistant Professor of Radiology, Brigham and Women's Hospital, Harvard Medical School
 
 ## Course Hosts
-Karin Wårdell, Ph.D., Professor of Biomedical Engineering, Head of the Neuroengineering Group, Linköping University, Linköping, Sweden
-Johannes Johansson, Ph.D., Senior Lecturer, Linköping University, Linköping, Sweden
-
+Karin Wårdell, Ph.D., Professor of Biomedical Engineering, Head of the Neuroengineering Group, Linköping University
+Johannes Johansson, Ph.D., Senior Lecturer, Linköping University
 
 ## Course Agenda
 
 September 30, 2019
 - 13:15:15:00: Introductory Lecture: 3D Slicer: An Open-Source Platform for Analysis and 3D Visualization of Medical Imaging Data 
 - 15:15:17:00: Hand-on Session 1: Basics of Data Loading and 3D Visualization in 3D Slicer
+
 October 1, 2019
- -10:00-12:00: Slicer Practice 
+- 10:00-12:00: Slicer Practice 
 - 13:15-15:00: Lecture: White Matter mapping using Diffusion Tensor Imaging Tractography
 - 15:15-16:00: Hands-on session 2: Diffusion Tensor Imaging Analysis
 
