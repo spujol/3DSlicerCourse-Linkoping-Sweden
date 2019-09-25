@@ -6,7 +6,7 @@ Sonia Pujol, PhD, Director of 3D Slicer Training & Education
 
 Assistant Professor of Radiology, Brigham and Women's Hospital, Harvard Medical School
 
-## Course Hosts
+## Course Organizers
 Karin Wårdell, Ph.D., Professor of Biomedical Engineering, Head of the Neuroengineering Group, Linköping University
 Johannes Johansson, Ph.D., Senior Lecturer, Linköping University
 
