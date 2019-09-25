@@ -1,21 +1,23 @@
 # 3D Slicer Course, Linköping University, Linköping, Sweden
-The 3D Slicer Training Workshop at Linköping University aims at introducing PhD students to brain connectivity mapping using diffusion tensor imaging tractography. The workshop includes lectures and hands-on sessions using pre-computed datasets.
+The 3D Slicer Course at Linköping University aims at introducing PhD students to brain connectivity mapping using diffusion tensor imaging tractography. The course includes didactic lectures and hands-on sessions using pre-computed datasets.
 
 ## Course Faculty
 Sonia Pujol, PhD, Director of 3D Slicer Training & Education
 
-## Workshop Agenda
-- 9:00:9:15: Opening Remarks 
-- 9:15:9:45: 3D Slicer: History and General Introduction
-- 9:45:10:15: Clinical Research Applications
-- 10:15-10:30: Coffee break
-- 10:30-12:00: Hands-on session 1: DICOM Data Loading and 3D Visualization 
-- 12:00-13:00: Lunch break 
-- 13:00-13:45: Hands-on session 2: Image Segmentation
-- 13:45-15:00: Hands-on session 3: White Matter Mapping
-- 15:00-15:15: Coffee break
-- 15:15-15:45: Slicer@IGCNC
-- 15:45-16:00: Discussion and Concluding Remarks
+## Course Hosts
+Karin Wårdell, Ph.D., Professor of Biomedical Engineering, Head of the Neuroengineering Group, Linköping University, Linköping, Sweden
+Johannes Johansson, Ph.D., Senior Lecturer, Linköping University, Linköping, Sweden
+
+
+## Course Agenda
+
+September 30, 2019
+- 13:15:15:00: Introductory Lecture: 3D Slicer: An Open-Source Platform for Analysis and 3D Visualization of Medical Imaging Data 
+- 15:15:17:00: Hand-on Session 1: Basics of Data Loading and 3D Visualization in 3D Slicer
+October 1, 2019
+ -10:00-12:00: Slicer Practice 
+- 13:15-15:00: Lecture: White Matter mapping using Diffusion Tensor Imaging Tractography
+- 15:15-16:00: Hands-on session 2: Diffusion Tensor Imaging Analysis
 
 ## Workshop Materials
 Participants are required to install the workshop materials prior to the event.  
