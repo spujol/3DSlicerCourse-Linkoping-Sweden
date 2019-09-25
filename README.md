@@ -30,7 +30,7 @@ Participants are required to install the workshop materials prior to the event.
 
 [Dataset #2: Diffusion Tensor Imaging](https://www.dropbox.com/s/m3slat1aouq0j75/Diffusion%20MRI.zip?dl=1)
 
-[Dataset #3: Brain Mapping](https://www.dropbox.com/s/xyux3pjbzvmibog/WhiteMatterExplorationData.zip?dl=1)
+[Dataset #3: Brain Mapping](https://www.dropbox.com/s/p41hlvssjpa48in/WhiteMatterExplorationData.zip?dl=1)
 
 ## Contact
 For questions related to the event, please send an e-mail to spujol at bwh.harvard.edu
