@@ -26,11 +26,11 @@ Participants are required to install the workshop materials prior to the event.
 [Slicer 4.10.2 Stable Release Version rev. 28257](https://download.slicer.org/)
 
 ### Tutorial Datasets
-[Dataset #1: 3D Visualization DICOM](https://www.dropbox.com/s/pwalbzpc9k25t7d/3DVisualization_DICOM.zip?dl=0)
+[Dataset #1: 3D Visualization DICOM](https://www.dropbox.com/s/pwalbzpc9k25t7d/3DVisualization_DICOM.zip?dl=1)
 
-[Dataset #2: Diffusion Tensor Imaging](https://www.dropbox.com/s/hdlduw6oqnf2n72/Meningioma.nrrd?dl=0)
+[Dataset #2: Diffusion Tensor Imaging](https://www.dropbox.com/s/m3slat1aouq0j75/Diffusion%20MRI.zip?dl=1)
 
-[Dataset #3: Brain Mapping](https://www.dropbox.com/s/xyux3pjbzvmibog/WhiteMatterExplorationData.zip?dl=0)
+[Dataset #3: Brain Mapping](https://www.dropbox.com/s/xyux3pjbzvmibog/WhiteMatterExplorationData.zip?dl=1)
 
 ## Contact
 For questions related to the event, please send an e-mail to spujol at bwh.harvard.edu
