@@ -32,5 +32,7 @@ Participants are required to install the workshop materials prior to the event.
 
 [Dataset #3: Brain Mapping](https://www.dropbox.com/s/p41hlvssjpa48in/WhiteMatterExplorationData.zip?dl=1)
 
+[Dataset #4: Meningioma](https://www.dropbox.com/s/hdlduw6oqnf2n72/Meningioma.nrrd?dl=0)
+
 ## Contact
 For questions related to the event, please send an e-mail to spujol at bwh.harvard.edu
