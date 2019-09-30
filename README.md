@@ -12,7 +12,7 @@ The 3D Slicer Course at Linköping University aims at introducing PhD students t
 
 September 30, 2019
 - 13:15:15:00: Lecture: 3D Slicer: An Open-Source Platform for Analysis and 3D Visualization of Medical Imaging Data 
-- 15:15:17:00: Hand-on Session 1: Basics of Data Loading and 3D Visualization in 3D Slicer
+- 15:15:17:00: [Hand-on Session 1: Basics of Data Loading and 3D Visualization in 3D Slicer](https://www.dropbox.com/s/oq75kcplfxjuze4/SlicerCourse_DataLoadingAndVisualization.pdf?dl=0)
 
 October 1, 2019
 - 10:00-12:00: Slicer Practice 
