@@ -17,8 +17,8 @@ September 30, 2019
 October 1, 2019
 - 10:00-12:00: Slicer Practice 
 - 13:15-15:00: Lecture: White Matter mapping using Diffusion Tensor Imaging Tractography
-- 15:00-15:30: [Hands-on session 2: Diffusion Tensor Imaging Analysis](https://www.dropbox.com/s/qx5m49dzt7jfunq/SlicerCourse_DiffusionMRIAnalysis_SoniaPujol.pdf?dl=0)
-- 15:30-16:00: [Hands-on session 3: Neurosurgical Planning] (https://www.dropbox.com/s/ky8eb8lgnchjeqe/SlicerCourse_NeurosurgicalPlanning_SoniaPujol.pdf?dl=0)
+- 15:00-15:30: [Hands-on Session 2: Diffusion Tensor Imaging Analysis](https://www.dropbox.com/s/qx5m49dzt7jfunq/SlicerCourse_DiffusionMRIAnalysis_SoniaPujol.pdf?dl=0)
+- 15:30-16:00: [Hands-on Session 3: Neurosurgical Planning](https://www.dropbox.com/s/ky8eb8lgnchjeqe/SlicerCourse_NeurosurgicalPlanning_SoniaPujol.pdf?dl=0)
 
 ## Workshop Materials
 Participants are required to install the workshop materials prior to the event.  
